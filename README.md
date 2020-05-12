@@ -1,4 +1,4 @@
-# Zimbra9-foss
+# Alternative build based on Zimbra sourcecode
 
 More informations on the project here : http://www.beezim.fr/pages/zimbra-9-oss/
 
